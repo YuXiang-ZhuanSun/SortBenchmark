@@ -31,7 +31,7 @@ your_sort(int *a,int num);
     benchmark_sort(your_sort,"YourSort()");
 ```
 
-其中`"YourSort()"`只是一句测试结果输出提示语。
+其中`your_sort`是你的排序函数名，`"YourSort()"`只是一句测试结果输出提示语。
 
 * 使用[小熊猫dev-c](https://royqh.net/devcpp/download)运行整个项目，即可自动开始排序算法测试。
 
@@ -40,4 +40,4 @@ your_sort(int *a,int num);
 使用愉快，后续会更新排序结果验证功能。
 
 参考：
-* [Benchmark](https://github.com/Ming-boop/ICPC/blob/master/Benchmark/Sort/Benchmark.cpp)
+* [Benchmark](https://github.com/Ming-boop/ICPC/blob/master/Benchmark)
