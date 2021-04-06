@@ -38,3 +38,6 @@ your_sort(int *a,int num);
 
 
 使用愉快，后续会更新排序结果验证功能。
+
+参考：
+* [Benchmark](https://github.com/Ming-boop/ICPC/blob/master/Benchmark/Sort/Benchmark.cpp)
