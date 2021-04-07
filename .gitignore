@@ -2,7 +2,9 @@
 *.in
 *.out
 *.win
-*layout
+*.layout
+*.gitignore
+
 
 # Prerequisites
 *.d
