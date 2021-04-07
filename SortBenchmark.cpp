@@ -13,7 +13,7 @@ void generate_test_cases() {
 }
 
 
-void benchmark_sort(void (*f)(int *, int), char* sortType) {
+void benchmark_sort(void (*f)(int *, int), const char* sortType) {
 	printf("Testing performance of %s:\n",sortType);
 	int num;
 	for (int i = 0; i < MAX_GROUP; i++) {
