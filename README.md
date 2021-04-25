@@ -1,6 +1,6 @@
 # 项目介绍
 
-本项目用于测试整数排序算法的速度。
+本项目用于验证整数排序算法的正确性，测试整数排序算法的速度。
 
 
 
@@ -37,7 +37,7 @@ your_sort(int *a,int num);
 
 
 
-使用愉快，后续会更新排序结果验证功能。
+使用愉快。
 
 参考：
 * [Benchmark](https://github.com/Ming-boop/ICPC/blob/master/Benchmark)

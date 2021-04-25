@@ -31,8 +31,16 @@ int * MergeSort(int *a, int *b, int l, int r) {
 	return b;
 }
 
-void merge_sort(int *a,int num){
-	int *b=(int *)malloc(sizeof(int)*num);
-	MergeSort(a,b,0,num-1);
-	free(b);
-} 
+
+void merge_sort(int *a, int num) {
+	int *b = (int *)malloc(sizeof(int) * num);
+	int *b0 = b;
+	for (int i = 0; i < num; i++) {
+		b[i] = a[i];
+	}
+	b = MergeSort(a, b, 0, num - 1);
+	for (int i = 0; i < num; i++) {
+		a[i] = b[i];
+	}
+	free(b0);
+}

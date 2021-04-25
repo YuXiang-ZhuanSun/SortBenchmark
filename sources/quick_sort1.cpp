@@ -1,6 +1,6 @@
-#include "sort.h" 
+#include "sort.h"
 
-void QuickSort(int *a, int l, int r) {
+void QuickSort1(int *a, int l, int r) {
 	int i = l, j = r, pivot = a[(l + r) / 2];
 	while (i <= j) {
 		while (a[i] < pivot) {
@@ -14,13 +14,13 @@ void QuickSort(int *a, int l, int r) {
 		}
 	}
 	if (l < j) {
-		QuickSort(a, l, j);
+		QuickSort1(a, l, j);
 	}
 	if (i < r) {
-		QuickSort(a, i, r);
+		QuickSort1(a, i, r);
 	}
 }
 
-void quick_sort(int *a, int num) {
-	QuickSort(a, 0, num - 1);
+void quick_sort1(int *a, int num) {
+	QuickSort1(a, 0, num - 1);
 }
