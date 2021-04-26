@@ -1,0 +1,151 @@
+Test cases are generating...
+
+Test cases generated successfully.
+
+Testing performance of std::sort():
+Time cost of sorting 10 numbers using std::sort() is 0.000000s.
+Time cost of sorting 100 numbers using std::sort() is 0.000000s.
+Time cost of sorting 200 numbers using std::sort() is 0.000000s.
+Time cost of sorting 500 numbers using std::sort() is 0.000000s.
+Time cost of sorting 1000 numbers using std::sort() is 0.000000s.
+Time cost of sorting 2000 numbers using std::sort() is 0.000000s.
+Time cost of sorting 5000 numbers using std::sort() is 0.001000s.
+Time cost of sorting 10000 numbers using std::sort() is 0.002000s.
+Time cost of sorting 20000 numbers using std::sort() is 0.003000s.
+Time cost of sorting 50000 numbers using std::sort() is 0.009000s.
+Time cost of sorting 100000 numbers using std::sort() is 0.020000s.
+Time cost of sorting 200000 numbers using std::sort() is 0.041000s.
+Time cost of sorting 500000 numbers using std::sort() is 0.106000s.
+Time cost of sorting 1000000 numbers using std::sort() is 0.218000s.
+Time cost of sorting 2000000 numbers using std::sort() is 0.444000s.
+Time cost of sorting 5000000 numbers using std::sort() is 1.151000s.
+Time cost of sorting 10000000 numbers using std::sort() is 2.357000s.
+Time cost of sorting 20000000 numbers using std::sort() is 4.868000s.
+Time cost of sorting 50000000 numbers using std::sort() is 12.844000s.
+Time cost of sorting 100000000 numbers using std::sort() is 26.333000s.
+
+Testing performance of QuickSort1():
+Time cost of sorting 10 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 100 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 200 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 500 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 1000 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 2000 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 5000 numbers using QuickSort1() is 0.000000s.
+The answer is correct.
+Time cost of sorting 10000 numbers using QuickSort1() is 0.001000s.
+The answer is correct.
+Time cost of sorting 20000 numbers using QuickSort1() is 0.004000s.
+The answer is correct.
+Time cost of sorting 50000 numbers using QuickSort1() is 0.008000s.
+The answer is correct.
+Time cost of sorting 100000 numbers using QuickSort1() is 0.016000s.
+The answer is correct.
+Time cost of sorting 200000 numbers using QuickSort1() is 0.032000s.
+The answer is correct.
+Time cost of sorting 500000 numbers using QuickSort1() is 0.086000s.
+The answer is correct.
+Time cost of sorting 1000000 numbers using QuickSort1() is 0.171000s.
+The answer is correct.
+Time cost of sorting 2000000 numbers using QuickSort1() is 0.354000s.
+The answer is correct.
+Time cost of sorting 5000000 numbers using QuickSort1() is 0.908000s.
+The answer is correct.
+Time cost of sorting 10000000 numbers using QuickSort1() is 1.796000s.
+The answer is correct.
+Time cost of sorting 20000000 numbers using QuickSort1() is 3.764000s.
+The answer is correct.
+Time cost of sorting 50000000 numbers using QuickSort1() is 9.638000s.
+The answer is correct.
+Time cost of sorting 100000000 numbers using QuickSort1() is 19.804000s.
+The answer is correct.
+
+Testing performance of QucickSort2():
+Time cost of sorting 10 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 100 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 200 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 500 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 1000 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 2000 numbers using QucickSort2() is 0.001000s.
+The answer is correct.
+Time cost of sorting 5000 numbers using QucickSort2() is 0.000000s.
+The answer is correct.
+Time cost of sorting 10000 numbers using QucickSort2() is 0.001000s.
+The answer is correct.
+Time cost of sorting 20000 numbers using QucickSort2() is 0.003000s.
+The answer is correct.
+Time cost of sorting 50000 numbers using QucickSort2() is 0.006000s.
+The answer is correct.
+Time cost of sorting 100000 numbers using QucickSort2() is 0.013000s.
+The answer is correct.
+Time cost of sorting 200000 numbers using QucickSort2() is 0.028000s.
+The answer is correct.
+Time cost of sorting 500000 numbers using QucickSort2() is 0.079000s.
+The answer is correct.
+Time cost of sorting 1000000 numbers using QucickSort2() is 0.173000s.
+The answer is correct.
+Time cost of sorting 2000000 numbers using QucickSort2() is 0.414000s.
+The answer is correct.
+Time cost of sorting 5000000 numbers using QucickSort2() is 1.470000s.
+The answer is correct.
+Time cost of sorting 10000000 numbers using QucickSort2() is 4.438000s.
+The answer is correct.
+Time cost of sorting 20000000 numbers using QucickSort2() is 14.901000s.
+The answer is correct.
+Time cost of sorting 50000000 numbers using QucickSort2() is 83.710000s.
+The answer is correct.
+Time cost of sorting 100000000 numbers using QucickSort2() is 326.551000s.
+The answer is correct.
+
+Testing performance of MergeSort():
+Time cost of sorting 10 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 100 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 200 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 500 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 1000 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 2000 numbers using MergeSort() is 0.000000s.
+The answer is correct.
+Time cost of sorting 5000 numbers using MergeSort() is 0.001000s.
+The answer is correct.
+Time cost of sorting 10000 numbers using MergeSort() is 0.001000s.
+The answer is correct.
+Time cost of sorting 20000 numbers using MergeSort() is 0.003000s.
+The answer is correct.
+Time cost of sorting 50000 numbers using MergeSort() is 0.007000s.
+The answer is correct.
+Time cost of sorting 100000 numbers using MergeSort() is 0.013000s.
+The answer is correct.
+Time cost of sorting 200000 numbers using MergeSort() is 0.029000s.
+The answer is correct.
+Time cost of sorting 500000 numbers using MergeSort() is 0.077000s.
+The answer is correct.
+Time cost of sorting 1000000 numbers using MergeSort() is 0.158000s.
+The answer is correct.
+Time cost of sorting 2000000 numbers using MergeSort() is 0.319000s.
+The answer is correct.
+Time cost of sorting 5000000 numbers using MergeSort() is 0.831000s.
+The answer is correct.
+Time cost of sorting 10000000 numbers using MergeSort() is 1.699000s.
+The answer is correct.
+Time cost of sorting 20000000 numbers using MergeSort() is 3.426000s.
+The answer is correct.
+Time cost of sorting 50000000 numbers using MergeSort() is 8.599000s.
+The answer is correct.
+Time cost of sorting 100000000 numbers using MergeSort() is 17.725000s.
+The answer is correct.
